@@ -1,4 +1,4 @@
-name: deploy-helloReact
+name: deploy-hellooReact
 
 on:
   push:
