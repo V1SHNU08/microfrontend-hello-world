@@ -1,4 +1,4 @@
-name: deploy-helloVue
+name: deploy-helloVaue
 
 on:
   push:
